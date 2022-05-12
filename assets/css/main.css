@@ -4866,7 +4866,7 @@ a img {
 @media only screen and (min-width:550px) {
     .header .site-title {
         margin: 0;
-        font-size: 100px
+        font-size: 80px
     }
 }
 
@@ -4880,7 +4880,7 @@ a img {
 
 @media only screen and (min-width:550px) {
     .header .site-description {
-        font-size: 40px
+        font-size: 20px
     }
 }
 
