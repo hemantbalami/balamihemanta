@@ -27,14 +27,14 @@ const exp = [
   },
 {
     title: "Computer Specialist/Instructor",
-    cardImage: "assets/images/experience-page/bal.jpg",
+    cardImage: "assets/images/experience-page/Bal.jpg",
     place: "Nagarujun 1 Ranibon, Kathmandu",
     time: "(June, 2010 - June, 2012)",
     desp: "<li>Handle the entire computer environment of the Organization.</li><li>Instruct the computer science subject to the student of level 6,7,8 as per the curriculam.</li>",
   },
 {
     title: "Store Keeper",
-    cardImage: "assets/images/experience-page/Sunix.jpg",
+    cardImage: "assets/images/experience-page/sunix.jpg",
     place: "Sano-Bharyang, Swoyambhu, Nepal",
     time: "(May, 2009 - May, 2013)",
     desp: "<li>Systematic Management of Store.</li><li>Daily Production & Outgoing Entry.</li><li>FIFO Delivery, Sales, Production.</li>",
