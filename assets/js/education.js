@@ -16,7 +16,7 @@ const moocscards = [
   },
   {
     title: "ISO Training",
-    cardImage: "assets/images/education-page/iso.svg",
+    cardImage: "assets/images/education-page/ISO.svg",
     moocLink: "https://www.coursera.org/learn/machine-learning",
   },
   {
