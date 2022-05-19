@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Q-chem",
-    cardImage: "assets/images/project-page/qchem.jpg",
+    cardImage: "assets/images/project-page/Qchem.jpg",
     description: "Sea Bulk Liner.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: "Q-Chem II",
-    cardImage: "assets/images/project-page/qchem2.jpg",
+    cardImage: "assets/images/project-page/Qchem2.jpg",
     description: "Sea Bulk Liner.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
