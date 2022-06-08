@@ -31,10 +31,10 @@ const references = [
         
 
         sl2:4,
-        name2 : "Tek Bahadur Paudel",
-        designation2 : "Executive Chairman, Motherland Group",
-        image2 : "assets/images/tek.jpg",
-        message2 : "Hemanta Balami and I worked together during in Interscaff & Motherland Overseas and the thing that surprised me the most about him was his knowledge & Skill. He complete his task with sincere manner. He is an impressive problem solver who is able to address complex issues strategically and confidently.",
+        name2 : "Mina Thapa",
+        designation2 : "Business Development Manager, Motherland Group",
+        image2 : "assets/images/mina.jpg",
+        message2 : "Hemanta Balami and I worked together during in Motherland Group and the thing that surprised me the most about him was his knowledge & Skill. He complete his task with sincere manner. He is an impressive problem solver who is able to address complex issues strategically and confidently.",
   },
 ];
 
