@@ -5,16 +5,16 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Client Service Manager",
+    title: "OPERATION MANAGER - MOTHERLAND GROUP",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Dhumbarahi, Kathmandu-Nepal",
-    time: "(Feb, 2022 - present)",
-     desp: "<li>Develop effective communication platforms for client and staff.</li><li>Liaise with different departments about client queries.</li><li>Develop surveys and capture client information.</li><li>Deal with client requests and troubleshoot problems.</li><li>Inspire repeat-business from clients.</li><li>Arranging interview as per client requirement. (Virtual & Physical).</li>",
+    place: "Oppsite Basundhare Police Station, Kathmandu-Nepal",
+    time: "(July, 2022 - present)",
+     desp: "<li>Coordinate and follow up on strategic and operational requirements across multiple departments.</li><li>Support management in planning, execution and monitoring of organizational priorities and projects. </li><li>Coordinate GCC and Europe-related manpower and recruitment projects from operational and documentation perspectives. </li><li>Work with recruitment, sourcing, business development, documentation, finance and PRO teams to ensure smooth project execution. </li><li>Monitor project progress, identify operational issues and coordinate with relevant teams for timely resolution. Support recruitment planning, team coordination and implementation of organizational processes. </li><li>Participate in business development activities, client/project documentation and sourcing initiatives. </li><li>Coordinate implementation and improvement of internal software and operational workflows. </li><li>Develop reports, track assigned activities and provide management with updates on project and operational progress. </li><li>Support process standardization, accountability and interdepartmental coordination. </li><li>Coordinate training-center and workforce-development activities where required. </li><li>Contribute to social media, digital communication and business-promotion activities as part of broader organizational requirements. (Virtual & Physical).</li>",
   },
   {
-    title: "Sales & Marketing Manager / Executive Manager ",
+    title: "OPERATION MANAGER - MOTHERLAND GROUP - MOTHERLAND SKILL ACADEMY",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Basundhara, Kathmandu-Nepal",
+    place: "Oppostie Basundhara Police Station, Kathmandu-Nepal",
     time: "(July 2018 - February, 2022)",
     desp: "<li>Ensuring the smooth operation of the Office Administrative functions; as well as providing administrative support to the Executive chairman with business plan, procurement, marketing and increase sales of the organization.</li><li>Handling Rope Access, Scaffolding, Civil & MEP Training Division: Planning, Scheduling and implementing various training, Co-ordination with NGO/INGO & Govt Body.</li><li>Initiated a series of marketing campaigns including email, print, digital, outdoor and social media analysis, crafted concept and content for journal ads, direct mail campaigns and bulk sms.</li></li>",
   },
